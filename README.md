@@ -24,7 +24,7 @@
 
 1. 克隆项目
 ```bash
-git clone <repository-url>
+git clone https://github.com/linguo2625469/license_system.git
 cd license-system
 ```
 
