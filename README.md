@@ -2,6 +2,9 @@
 
 基于 Node.js + Express + MySQL 的授权码管理后端系统。
 
+> **前端项目**：[license_system_admin](https://github.com/linguo2625469/license_system_admin) - 基于 Vue 3 生态构建，提供直观易用的管理界面
+
+
 ## 功能特性
 
 - 多软件管理
