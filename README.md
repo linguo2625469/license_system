@@ -86,7 +86,8 @@ src/
 
 ## API 文档
 
-详见 API.md 文件。
+~~详见 API.md 文件。~~
+启动服务后访问http://ip:port/api-docs
 
 ## 许可证
 
