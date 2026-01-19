@@ -89,6 +89,6 @@ src/
 ~~详见 API.md 文件。~~
 启动服务后访问http://ip:port/api-docs
 
-## 许可证
+## 📄 License
 
-ISC
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

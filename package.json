@@ -2,8 +2,8 @@
   "name": "license_system",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
-  "author": "",
+  "license": "MIT",
+  "author": "linguo2625469",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
